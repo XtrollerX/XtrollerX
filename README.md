@@ -8,7 +8,10 @@ terms of app developement, I am working towards being a full stack app developer
 ### Skills and experience
 - 🐍Python/google colab                                                 
 - 🤖Pytorch/google colab                                                                                                          
-- 💻Kotlin/android studio                           ![2GU](https://user-images.githubusercontent.com/67418036/160851378-dd0c0d9c-73a6-471e-84cd-ddbc7cd98272.gif)
+- 💻Kotlin/android studio                         
+
+
+<img src = "htps://github.com/XtrollerX/XtrollerX/blob/main/2GU.gif" width = "250">
 
                                                                                   
 
