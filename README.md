@@ -5,8 +5,8 @@ advancements in both AI and app developements. In the field of AI, I am mainly f
 terms of app developement, I am working towards being a full stack app developer.
 
 ### Skills and experience
-- 🐍Python/google colab
-- 🤖Pytorch/google colab
+- 🐍Python/google colab                                                 
+- 🤖Pytorch/google colab                                                      <img src="https://github.com/XtrollerX/XtrollerX/blob/main/2GU.gif" width="500">                                                      
 - 💻Kotlin/android studio
 
-<img src="https://github.com/XtrollerX/XtrollerX/blob/main/2GU.gif" width="500">
+
