@@ -4,7 +4,7 @@ I am Xavier a fellow AI and App dev enthusiast. I mainly focus on developing AI 
 advancements in both AI and app developements. In the field of AI, I am mainly focused on supervised learning(classification/regression) and reinforcement learning. In 
 terms of app developement, I am working towards being a full stack app developer.
 
-<img src="https://github.com/XtrollerX/XtrollerX/blob/main/2GU.gif" width="150px">
+                                                                                       <img src="https://github.com/XtrollerX/XtrollerX/blob/main/2GU.gif" width="150px">
                                                                                          
 ### Skills and experience   
 - 🐍Python/google colab                                                 
