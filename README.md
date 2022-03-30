@@ -10,7 +10,7 @@ terms of app developement, I am working towards being a full stack app developer
 <img align="right" alt="GIF" src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" />
                                                                                          
 ### Skills and experience   
-- 🐍Python/google colab                                                 
+- 🐍Python/pycharm                                                
 - 🤖Pytorch/google colab  
 - 🤖OpenAi/google colab                                                                                                        
 - 💻Kotlin/android studio                         
