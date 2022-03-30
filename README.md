@@ -9,3 +9,4 @@ terms of app developement, I am working towards being a full stack app developer
 - 🤖Pytorch/google colab
 - 💻Kotlin/android studio
 
+<img src="https://github.com/XtrollerX/XtrollerX/blob/main/2GU.gif" width="500">
