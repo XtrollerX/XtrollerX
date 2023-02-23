@@ -22,8 +22,8 @@ I am Xavier a fellow undergraduate studying in the field of Computer Science(Big
 - 💻 Catching up on the latest news in tech
 - 📰  Building new projects
 
-
-<img align="bottom" alt="GIF" src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" />
+<h2 align="left">Footage of me coding:</h2>
+<img align="left" alt="GIF" src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" />
                                                                                          
 
 
