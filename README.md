@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Xavier</h1>
 <h2 align="left">About me:</h2>
-**I am Xavier**, a fellow undergraduate studying in the field of Computer Science(Big Data) in the University of Wollongong. I am interested in reading and building projects related to Artificial Intelligence and Android App Development. I work on projects both solo and in groups during my free time, feel free to reach out to me!
+I am Xavier, a fellow undergraduate studying in the field of Computer Science(Big Data) in the University of Wollongong. I am interested in reading and building projects related to Artificial Intelligence and Android App Development. I work on projects both solo and in groups during my free time, feel free to reach out to me!
 
 <h2 align="left">Side notes about me:</h2>
 
