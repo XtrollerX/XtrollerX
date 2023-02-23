@@ -8,7 +8,7 @@ I am Xavier, a fellow undergraduate studying in the field of Computer Science(Bi
 
 - 💬 Ask me about **Android App development and AI**
 
-- 📫 How to reach me **deezxavier@hotmail.com**
+- 📫 How to reach me **reviaxlow@hotmail.com**
 
 
 <p align="left">
