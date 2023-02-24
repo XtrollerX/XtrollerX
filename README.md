@@ -22,7 +22,7 @@ I am Xavier, a undergraduate studying in the field of Computer Science(Big Data)
 - 💻 Catching up on the latest news in tech
 - 📰  Building new projects
 
-<h2 align="left">live footage of me</h2>
+<h2 align="left">Live footage of me</h2>
 <img align="left" alt="GIF" src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" />
                                                                                          
 
