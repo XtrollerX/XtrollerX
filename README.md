@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Xavier</h1>
 <h2 align="left">About me:</h2>
-I am Xavier, a fullstack app developer working in Nord VPN. I am interested in reading and building projects related to Artificial Intelligence and Android App Development. I work on projects both solo and in groups during my free time, feel free to reach out to me!
+I am Xavier, currently an undergraduate in the University of Wollongong taking up a degree in Computer Science (Big Data), Software has always fascinated me ever since I was a kid, the idea that an Individual being able to instruct the computer to do something and create something new has always intrigued me. Hence I decided to learn how to code, from then on I have created two projects and I am currently working on the third. I will be more than happy to collaborate with anybody who shares the same passion as me
 
 <h2 align="left">Side notes about me:</h2>
 
